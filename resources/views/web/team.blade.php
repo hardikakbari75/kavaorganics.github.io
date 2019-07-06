@@ -40,9 +40,9 @@
             </div>
         </div>
         <div class="row">
-            <div class="col-sm-4 wow fadeInLeft">
+            <div class="col-sm-6 wow fadeInLeft">
                 <div class="team-member">
-                    <img src="{{ url('storage/app/images/john.jpg') }}" class="img-responsive img-circle" alt="">
+                    <img src="{{ url('storage/app/images/john.jpg') }}" class="img-responsive img-circle img-small" alt="">
                     <h4><span class="navy">John</span> Kava</h4>
                     <p>Lorem ipsum dolor sit amet, illum fastidii dissentias quo ne. Sea ne sint animal iisque, nam an soluta sensibus. </p>
                     <ul class="list-inline social-icon">
@@ -55,8 +55,8 @@
                     </ul>
                 </div>
             </div>
-            <div class="col-sm-4">
-                <!-- <div class="team-member wow zoomIn">
+            <!-- <div class="col-sm-4">
+                <div class="team-member wow zoomIn">
                     <img src="{{ url('storage/app/images/john.jpg') }}" class="img-responsive img-circle" alt="">
                     <h4><span class="navy">John</span> Novak</h4>
                     <p>Lorem ipsum dolor sit amet, illum fastidii dissentias quo ne. Sea ne sint animal iisque, nam an soluta sensibus.</p>
@@ -68,11 +68,11 @@
                         <li><a href="#"><i class="fa fa-linkedin"></i></a>
                         </li>
                     </ul>
-                </div> -->
-            </div>
-            <div class="col-sm-4 wow fadeInRight">
+                </div>
+            </div> -->
+            <div class="col-sm-6 wow fadeInRight">
                 <div class="team-member">
-                    <img src="{{ url('storage/app/images/rahul_right.jpg') }}" class="img-responsive img-circle" alt="">
+                    <img src="{{ url('storage/app/images/rahul_right.jpg') }}" class="img-responsive img-circle img-small" alt="">
                     <h4><span class="navy">Rahul</span> Kava</h4>
                     <p>Lorem ipsum dolor sit amet, illum fastidii dissentias quo ne. Sea ne sint animal iisque, nam an soluta sensibus.</p>
                     <ul class="list-inline social-icon">
