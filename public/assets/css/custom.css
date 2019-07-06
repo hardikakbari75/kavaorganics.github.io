@@ -1,0 +1,11 @@
+.logo {
+  width: 180px;
+  height: 70px;
+  display: block;
+  border-radius: 0 0 5px 5px;
+  transition: all 0.3s ease-in-out 0s
+}
+
+.required-field {
+	color: #FF0000;
+}
